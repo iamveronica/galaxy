@@ -3,7 +3,7 @@ galaxy
 
 http://veganbunny.com/portfolio/galaxy/
 
-This is an Android app I created for a college class.
+This is an Android app I created for a college class. Utilized the Android SDK, Eclipse IDE, and Java.
 
 Icon
 
