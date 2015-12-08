@@ -3,7 +3,7 @@ galaxy
 
 http://veganbunny.com/portfolio/galaxy/
 
-This is an Android app I created for a college class in 2012. Utilized the Android SDK, Eclipse IDE, and Java.
+This is an Android app I created for a college class in 2012, to educate children about the planets in our solar system. Utilized the Android SDK, Eclipse IDE, and Java.
 
 Icon
 
